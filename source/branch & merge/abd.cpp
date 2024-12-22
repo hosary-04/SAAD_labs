@@ -2,16 +2,21 @@
 //
 
 #include <iostream>
-int  my_sum(int a, int b, int c);
+int  sum(int a, int b, int c);
+
+
 
 int main()
 {
+    std::cout << "wale\n";
+    std::cout << "lame\n";
     std::cout << "dear student!\n";
     std::cout << "lets try new concepts!\n";
     std::cout << "learning git is fun\n";
-    std::cout << my_sum(2, 4, 6);
+    std::cout << sum(2, 4, 6);
 }
-int my_sum(int a.int b,int c)
+int sum(int a.int b,int c)
 {
+
     return a + b + c;
 }
