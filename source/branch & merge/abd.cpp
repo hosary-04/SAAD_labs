@@ -13,6 +13,9 @@ int main()
     std::cout << "lets try new concepts!\n";
     std::cout << "learning git is fun\n";
     std::cout << sum(2, 4, 6);
+
+    std::cout << "wf sale\n";
+    std::cout << "by 2 get 3 free\n";
 }
 int sum(int a.int b,int c)
 {
